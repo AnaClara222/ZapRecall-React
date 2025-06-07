@@ -1,12 +1,14 @@
-# React + Vite
+# 📚 ZapRecall
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Implementação de um app de flashcards, são cartões de estudos que contém uma pergunta/afirmação na frente e uma resposta atrás. A ideia é ler a pergunta ou afirmação e tentar lembrar da reposta. Isso te ajuda a saber quais conteúdos você tem mais frescos na memória e quais precisam de uma revisão. Quando lembramos da resposta de um flashcard, tivemos um Zap!⚡
 
-Currently, two official plugins are available:
+## 🔗 Acesse o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [zap-recall-react-seven.vercel.app](https://zap-recall-react-seven.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React  
+- JavaScript  
+- CSS Modules  
+- Vite
